@@ -14,6 +14,6 @@ Here you can help us translate gamemode to another languages, make bugreport or 
 https://github.com/salwad0r/mta-miracle/
 
 <b>https://vk.com/pokolenie.lohov<br>
-  https://.vk.com/kapitoshka_b<br>
+  https://vk.com/kapitoshka_b<br>
   http://vk.com/mta.mymiracle<br>
   http://bs-mta.ru</b>
