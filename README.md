@@ -1,5 +1,5 @@
 
-<h1>Tracker for a MTA Project Zero.</h1>
+<h1>Tracker for a MTA Miracle.</h1>
 
 <h3>RU:</h3>
 Here you can help us translate gamemode to another languages, make bugreport or suggest improvements!
@@ -14,5 +14,6 @@ Here you can help us translate gamemode to another languages, make bugreport or 
 https://github.com/salwad0r/mta-miracle/
 
 <b>https://vk.com/pokolenie.lohov<br>
+  https://.vk.com/kapitoshka_b
 http://vk.com/mta.mymiracle<br>
 http://bs-mta.ru</b>
