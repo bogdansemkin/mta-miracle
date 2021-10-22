@@ -1,0 +1,13 @@
+"CAMP": "ЛАГЕРЬ",
+"JAIL": "ТЮРЬМА",
+"AIRCRAFT CARRIER": "АВИАНОЦЕС",
+"CHILIAD": "ЧИЛИАД",
+"ZONE 0": "ЗОНА 0",
+"MINE": "ШАХТА",
+"BUILDING": "СТРОЙКА",
+"POLYGON": "ПОЛИГОН",
+"SHIP": "КОРАБЛЬ",
+"BLOCK STATION": "ПРОМЗОНА",
+"LABORATORY": "ЛАБОРАТОРИЯ",
+"AIRPORT LS": "АЭРОПОРТ LS",
+"ZONE 48": "ЗОНА 48"

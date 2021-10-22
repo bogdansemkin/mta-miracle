@@ -1,0 +1,23 @@
+"INVENTORY": "ИНВЕНТАРЬ",
+"INTERACTION WITH WORLD*": "ВЗАИМОДЕЙСТВИЕ С ОКРУЖАЮЩИМ МИРОМ *",
+"RELOAD WEAPON": "ПЕРЕЗАРЯДКА ОРУЖИЯ",
+"SET ANIMATION": "ВКЛЮЧЕНИЕ АНИМАЦИИ",
+"SEND MESSAGE": "ОТПРАВКА СООБЩЕНИЯ",
+"LIST PLAYERS": "СПИСОК ИГРОКОВ",
+"CHANGE CHAT CHANNEL": "ПЕРЕКЛЮЧЕНИЕ КАНАЛА ЧАТА",
+"STATE BODY PARTS": "ЛЕЧЕНИЕ ПЕРСОНАЖА",
+"BUILDNG MENU": "МЕНЮ СТРОИТЕЛЬСТВА",
+"CRAFT MENU": "МЕНЮ КРАФТА",
+
+"VEHICLE LIGHTS": "УПРАВЛЕНИЕ ФАРАМИ АВТО",
+"ENGINE VEHICLE": "ЗАПУСК ДВИГАТЕЛЯ АВТО",
+"CONTROLS LIST": "ТЕКУЩЕЕ ОКНО ПОМОЩИ",
+"ANSWERS TO FREQUENTLY ASKED QUESTIONS": "ОТВЕТЫ НА ЧАСТО ЗАДАВАЕМЫЕ ВОПРОСЫ",
+"PERSONAL SETTINGS": "ПОЛЬЗОВАТЕЛЬСКИЕ НАСТРОЙКИ",
+"DONATE": "ПЛАТНЫЕ УСЛУГИ",
+"MOVING TO RANDOM SPAWN": "ПЕРЕМЕЩЕНИЕ НА СЛУЧАЙНЫЙ СПАВН",
+"FAST USE LOOT": "БЫСТРОЕ ИСПОЛЬЗОВАНИЕ ЛУТА",
+"SKILLS STATS": "СТАТИСТИКА НАВЫКОВ",
+
+"TO INTERACT WITH WORLD AROUND, HOLD KEY [e] MOVE CURSOR TO OBJECT": "ДЛЯ ВЗАИМОДЕЙСТВИЯ С ОКРУЖАЮЩИМ МИРОМ ЗАЖМИТЕ КЛАВИШУ [e] И НАВЕДИТЕ КУРСОРОМ НА ОБЪЕКТ",
+"* PICK UP LOOT, CORPSES SEARCH, ENTER TO HOUSE, CONTROL VEHICLE, CHOPPING WOOD AND MUCH MORE": "* ПОДБОР ЛУТА, ОБЫСК ТРУПОВ, УПРАВЛЕНИЕ АВТО, РУБКА ДРОВ И МНОГОЕ ДРУГОЕ"
