@@ -12,8 +12,3 @@ https://github.com/salwad0r/mta-miracle/
 Here you can help us translate gamemode to another languages, make bugreport or suggest improvements!
 
 https://github.com/salwad0r/mta-miracle/
-
-<b>https://vk.com/pokolenie.lohov<br>
-  
-  http://vk.com/mta.mymiracle<br>
-  http://bs-mta.ru</b>
